@@ -1,0 +1,45 @@
+.navbar-inverse .navbar-brand .site-title-tagline-wrapper .site-title > a:hover {
+  color: #72807f;
+  font-size: 44px;
+}
+
+.container {
+  color: #ffffff;
+}
+
+.navbar-inverse .navbar-brand .site-title > a {
+  color: #ffffff;
+}
+
+.nav>li>a {
+  color: #ffffff;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #d7d9db;
+  font-size: 17px;
+}
+
+a:hover {
+  color: #fcfcfc;
+}
+
+.responsive-logo a {
+  color: #000000;
+}
+
+.navbar-inverse .navbar-brand .site-title a {
+  color: #8fa8a6;
+  font-size: 40px;
+  text-decoration: none;
+}
+
+#main-nav.navbar.navbar-inverse.bs-docs-nav {
+  background-color: #000000;
+}
+
+
+
+.navbar-inverse .navbar-nav>li>a:hover {
+  color: #e3dfdf;
+}
